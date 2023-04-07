@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+header{
+    display: flex;
+ height: 500px;
+ width: 200%;
+}
+
+.infan{
+    border-radius: 20%;
+    height: auto;
+    width: 50%;
+}
+
+body{
+    justify-content: center;
+    padding-left: 10%;
+    
+    color: aliceblue;
+    background-color:darkslategrey
+}
+
+nav{
+position: absolute;
+justify-content: center;
+margin: 35%;
+border: 10%;
+
+
+}
+
+li{
+    list-style: none;
+    border-radius: 10%;
+    background-color: black;
+    height: 50px;
+    width: 100px;
+    justify-content: center;
+}
+
+ a{
+    
+    color: aliceblue;
+    position: absolute;
+    margin: 15%;
+    
+    
+    
+}
+
+
+
+div{
+    
+    display: flex;
+    
+}
+
+
+
+
+div.cere-icon{
+    background-color: darkgray;
+    border-radius: 20%;
+}
+button img :hover{
+    display: flex;
+    position: absolute;
+    transition: 2s;
+    border-radius: 30%;
+
+}
+
+p {
+    display: flex;
+    padding: 30px ;
+   
+   width: 80%;
+   background-color: darkgrey;
+   border-radius: 10%;
+   
+}
+h2{
+    display: flex;
+    
+   
+}
+
+
+
