@@ -1,0 +1,212 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+  
+    background: #FFFFFF;
+    height: 1080px;
+    width: 1920px;
+    
+    
+  }
+  
+  .head {
+  
+    background: #808080;
+    height: 190px;
+    width: 100%;
+    display: flex;
+  
+  }
+  
+  .head h1 {
+  
+    color: #E8372D;
+    margin: 5% 2%;
+    text-shadow: 4px 4px 8px #000000;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;
+    user-select: none;
+  
+  }
+  
+  .logo {
+  
+    background-image: url('../img/Capturar.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 93px;
+    height: 120px;
+    margin: 20px 20px;
+  
+  }
+  
+  .funtion-rede-login{
+  
+    background: #FFFFFF;
+    position: relative;
+    width: 796px;
+    height: 123px;
+    border-radius: 50px;
+    display: flex;
+    left: 32%;
+    top: 15%;
+    user-select: none;
+    
+  }
+  
+  .funtion-rede-login .face{
+  
+    background-image: url('../img/facebook.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 20px 0px;
+    margin-left: 80px;
+    border-radius: 50px;
+    
+    
+  }
+  
+  .funtion-rede-login .insta{
+  
+    background-image: url('../img/instagram.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 20px 10px;
+    border-radius: 50px;
+    
+  }
+  
+  .funtion-rede-login .disc{
+  
+    background-image: url('../img/discordia.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 20px 5px;
+    margin-right: 19%;
+    border-radius: 50px;
+    
+  }
+  
+  .funtion-rede-login .icon-poke{
+  
+    background-image: url('../img/pokebola.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin: -15px 0px;
+    
+  }
+  
+  .funtion-rede-login button{
+  
+    width: 200px;
+    height: 60px;
+    margin: 35px -22px;
+    border-radius: 20px;
+    font-size: 35px;
+    background: rgba(235, 0, 0, 1);
+    color: #FFFFFF;
+    
+  }
+  
+  .funtion-rede-login h2{
+  
+    position: absolute;
+    top: 62%;
+    left: 18%;
+    color: #E8372D;
+    
+    
+  }
+  
+  .inicial{
+  
+    display: flex;
+  
+  }
+  
+  .menu{
+  
+    background: rgba(176, 16, 16, 1);
+    height: 875px;
+    width: 294px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0px 20px;
+    
+    
+  }
+  
+  .menu h2{
+  
+    position: relative;
+    font-size: 35px;
+    margin: 60px 0px;
+    top: 10%;
+  }
+  
+  .ultimas-noticias-carrocel{
+  
+    width: 1600px;
+    height: 875px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 28px;
+    color: #FFFFFF;
+    
+  }
+  
+  .video-fundo{
+  
+    width: 1600px;
+    height: 875px;
+    position: fixed;
+    z-index: -100;
+    top: 15%;
+    left: 12.7%;
+    
+  }
+  
+  .ultimas-noticias-carrocel h1{
+  
+    margin: 10px 20px;
+    font-size: 58px;
+    
+  }
+  
+  .ultimas-noticias-carrocel button{
+  
+    position: relative;
+    top: 42%;
+    left: 10%;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+  }
+  
+  .ultimas-noticias-carrocel #button-esquerdo{
+  
+    margin-right: 1050px;
+    
+  }
+  
+  
+  
+  
+  
